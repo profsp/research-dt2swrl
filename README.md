@@ -2,4 +2,4 @@ This code refers to a new python module that is a proof of concept capable of in
 
 The associated research article is called "Towards Hybrid Self-Learning Ontologies: A New Python Module for Closed-Loop Integration of Decision Trees and OWL" and will be published soon. 
 
-Further application tests and constructive feedback from the community is welcome. 
+Further application tests and constructive feedback from the community are welcome. 
